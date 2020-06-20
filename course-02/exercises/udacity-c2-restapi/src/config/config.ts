@@ -1,7 +1,7 @@
 export const config = {
   "dev": {
     "username": "udagramhscdev",
-    "password": "WELADED1STB",
+    "password": "",
     "database": "udagramhscdev",
     "host": "udagramhscdev.ccyvta7poonl.eu-central-1.rds.amazonaws.com",
     "dialect": "postgres",
@@ -11,7 +11,7 @@ export const config = {
   },
   "prod": {
     "username": "udagramhscdev",
-    "password": "WELADED1STB",
+    "password": "",
     "database": "udagram_prod",
     "host": "udagramhscdev.ccyvta7poonl.eu-central-1.rds.amazonaws.com",
     "dialect": "postgres"
